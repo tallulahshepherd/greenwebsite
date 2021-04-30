@@ -34,13 +34,14 @@ a {
 
 .blogimage {
   margin-left: 100px;
-  max-width: 50%!important;
+  max-width: 40%!important;
 }
 
 .blogtext {
    margin: 10px!important;
   letter-spacing: 1px;
   font-weight: 250!important;
+  max-width: 40%!important;
   font-size: 30px;
   padding-top: 100px;
 }
