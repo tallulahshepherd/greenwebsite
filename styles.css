@@ -5,10 +5,17 @@ h1 {
   color: #252119;
   margin-top: 30px!important;
 }
+h2 {
+  color: #252119;
+  margin-top: 30px!important;
+  margin-bottom: 70px!important;
+}
+
 h3 {
-  margin-top: 10px!important;
+  margin: 10px!important;
    letter-spacing: 1px;
 }
+
 p {
   color: #252119;
   letter-spacing: 1px;
@@ -25,6 +32,30 @@ a {
     letter-spacing: 2px;
 }
 
+.blogimage {
+  margin-left: 100px;
+  max-width: 50%!important;
+}
+
+.blogtext {
+   margin: 10px!important;
+  letter-spacing: 1px;
+  font-weight: 250!important;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.btn-outline-primary {
+  color: #252119!important;
+  border-color: #252119!important;
+}
+
+.btn-outline-primary:hover {
+  color:#fff;
+  background-color:#B9884C!important;
+  border-color:#B9884C!important;
+}
+
 .card {
   transition: 0.3s;
   border: 0!important;
@@ -36,6 +67,7 @@ a {
 footer {
 	text-align: center;
 	margin: 15px;
+  margin-top: 30px;
 	margin-bottom: 30px;
 	font-size: 12px;
 }
