@@ -35,6 +35,7 @@ a {
 .blogimage {
   margin-left: 100px;
   max-width: 40%!important;
+  padding-top:50px;
 }
 
 .blogtext {
@@ -44,6 +45,15 @@ a {
   max-width: 40%!important;
   font-size: 30px;
   padding-top: 100px;
+}
+
+.regtext {
+   margin: 10px!important;
+  letter-spacing: 1px;
+  font-weight: 250!important;
+  max-width: 40%!important;
+  font-size: 18px;
+  padding-top: 50px;
 }
 
 .btn-outline-primary {
